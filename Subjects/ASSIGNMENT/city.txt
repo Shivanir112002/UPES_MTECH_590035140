@@ -1,0 +1,5 @@
+Lucknow 38.0 631.0
+Bhopal 24.0 463.0
+Chandigarh 11.5 114.0
+Nagpur 29.0 227.0
+Mysuru 10.2 156.0
